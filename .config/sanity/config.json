@@ -1,0 +1,13 @@
+{
+	"telemetryDisclosed": 1716916735296,
+	"cliLastUpdateCheck": 1716916741733,
+	"authToken": "skFwFwMkBSrcZdKRhiOYdqggPIo1saga7jBsYhey10QLkpYap09dlZYNLarcnWIHmWoIHP9qp5qefPf2d",
+	"authType": "normal",
+	"telemetryConsent": {
+		"value": {
+			"type": "telemetry",
+			"status": "granted"
+		},
+		"updatedAt": 1716916766499
+	}
+}

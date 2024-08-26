@@ -1,0 +1,295 @@
+13:11:20.758 info extension stopping host
+13:11:24.256 info host ------------ starting ------------
+13:11:24.399 info extension host process output: port:[59953]
+13:11:24.400 info extension 
+13:11:24.466 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 59953 }
+13:11:25.012 info host starting host: {"extensionFolder":"c:\\Users\\Eyie\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.324","runtimeHookFile":"c:\\Users\\Eyie\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.324\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Eyie\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.324\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\Eyie\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.324\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[{"path":"c:\\users\\eyie\\code\\youtube\\react-project-2024\\src\\components\\joblistings.jsx","reason":"search"},{"path":"c:\\Users\\Eyie\\code\\youtube\\react-project-2024\\src\\App.jsx","reason":"open"},{"path":"c:\\Users\\Eyie\\code\\youtube\\react-project-2024\\src\\components\\JobListings.jsx","reason":"open"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","DESKTOP-I6V7IM0","192.168.1.13"],"host":"127.0.0.1","forcedStart":false,"startTime":1718100680871}
+13:11:25.388 info host starting tools discovery and integration
+13:11:25.397 info host creating C:\Users\Eyie\.console-ninja\.bin
+13:11:25.707 info host installing C:\Users\Eyie\.console-ninja\.bin\loader.js
+13:11:25.739 info host installing C:\Users\Eyie\.console-ninja\.bin\console-ninja.ps1
+13:11:25.755 info host installing C:\Users\Eyie\.console-ninja\.bin\console-ninja.cmd
+13:11:25.767 info host installing PATH C:\Users\Eyie\.console-ninja\.bin
+13:11:26.102 info host worker Starting Host Worker...
+13:11:28.273 info host looking for tools to patch
+13:11:29.008 info host found 1 tool file(s) to patch
+13:11:29.014 info host patching c:\users\eyie\code\youtube\react-project-2024\node_modules\vite\bin\vite.js
+13:11:29.138 info host Host's startup and patch time: 8267 ms
+13:11:29.139 info host completed tools discovery and integration
+13:11:29.181 ERR! host uncaught exception: No clients connected
+13:21:06.701 ERR! host uncaught exception: No clients connected
+13:27:09.370 ERR! host uncaught exception: No clients connected
+13:35:37.517 ERR! host uncaught exception: No clients connected
+14:03:06.110 info host scheduling tools patching
+14:03:06.200 info host scheduling tools patching
+14:03:08.209 info host looking for tools to patch
+14:03:08.940 info host found 1 tool file(s) to patch
+14:03:08.943 info host patching c:\users\eyie\code\youtube\react-project-2024\node_modules\vite\bin\vite.js
+14:03:09.032 info host Host's startup and patch time: 3108161 ms
+14:08:09.728 info host scheduling tools patching
+14:08:09.856 info host scheduling tools patching
+14:08:11.859 info host looking for tools to patch
+14:08:12.592 info host found 1 tool file(s) to patch
+14:08:12.595 info host patching c:\users\eyie\code\youtube\react-project-2024\node_modules\vite\bin\vite.js
+14:08:12.598 info host Host's startup and patch time: 3411727 ms
+14:08:35.760 ERR! host uncaught exception: No clients connected
+14:16:43.887 info extension stopping host
+14:16:43.950 info host removing cache folder: 4395e7a886aa03500e78a71581ed74cc
+19:30:19.260 info extension stopping host
+19:30:22.486 info host ------------ starting ------------
+19:30:22.668 info extension host process output: port:[59953]
+19:30:22.668 info extension 
+19:30:22.733 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 59953 }
+19:30:23.804 info host starting host: {"extensionFolder":"c:\\Users\\Eyie\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.324","runtimeHookFile":"c:\\Users\\Eyie\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.324\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Eyie\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.324\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\Eyie\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.324\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[{"path":"c:\\Users\\Eyie\\code\\youtube\\react-project-2024\\src\\App.jsx","reason":"open"},{"path":"c:\\Users\\Eyie\\code\\youtube\\react-project-2024\\src\\components\\JobListings.jsx","reason":"open"},{"path":"c:\\Users\\Eyie\\code\\youtube\\react-project-2024\\src\\components\\ViewAllJobs.jsx","reason":"open"},{"path":"c:\\Users\\Eyie\\code\\youtube\\react-project-2024\\tailwind.config.js","reason":"open"},{"path":"c:\\Users\\Eyie\\code\\youtube\\react-project-2024\\src\\components\\JobListing.jsx","reason":"open"},{"path":"c:\\Users\\Eyie\\code\\youtube\\react-project-2024\\src\\components\\Navbar.jsx","reason":"open"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","DESKTOP-I6V7IM0","192.168.1.13"],"host":"127.0.0.1","forcedStart":false,"startTime":1718123419271}
+19:30:23.839 info host worker Starting Host Worker...
+19:30:24.014 info host starting tools discovery and integration
+19:30:24.879 info host looking for tools to patch
+19:30:27.437 info host found 1 tool file(s) to patch
+19:30:27.451 info host patching c:\users\eyie\code\youtube\react-project-2024\node_modules\vite\bin\vite.js
+19:30:27.467 info host Host's startup and patch time: 8195 ms
+19:30:27.468 info host completed tools discovery and integration
+19:30:27.500 ERR! host uncaught exception: No clients connected
+19:30:55.463 info buildHook-5252 installing build hook for vite at c:\users\eyie\code\youtube\react-project-2024, node v20.11.0
+19:30:55.494 info buildHook-5252 allowed tools: vite, angular, jest, webpack, next.js, nest.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+19:30:55.495 info buildHook-5252 running tools: vite
+19:30:55.509 info buildHook-5252 installing fs interceptor
+19:30:55.530 info host client connected: buildHook { address: '127.0.0.1', family: 'IPv4', port: 59953 }
+19:30:55.679 info buildHook-5252 file processed (stat): 0 log points, error handler: false, network logging handler: false
+19:30:55.705 info buildHook-5252 file processed (stat): 0 log points, error handler: false, network logging handler: false
+19:30:55.713 info buildHook-5252 file processed (stat): 0 log points, error handler: false, network logging handler: false
+19:30:55.725 info buildHook-5252 file processed (stat): 0 log points, error handler: false, network logging handler: false
+19:30:55.766 info buildHook-5252 file processed (stat): 0 log points, error handler: false, network logging handler: false
+19:30:55.786 info buildHook-5252 file processed (stat): 0 log points, error handler: false, network logging handler: false
+19:30:55.787 info buildHook-5252 allowed tools: vite, angular, jest, webpack, next.js, nest.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+19:30:55.787 info buildHook-5252 running tools: vite
+19:30:55.792 info buildHook-5252 allowed tools: vite, angular, jest, webpack, next.js, nest.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+19:30:55.792 info buildHook-5252 running tools: vite
+19:30:58.195 info buildHook-5252 file processed (stat): 0 log points, error handler: true, network logging handler: true
+19:31:10.192 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59953 }
+19:31:10.217 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59953 }
+19:31:49.467 info buildHook-5252 file processed (stat): 0 log points, error handler: false, network logging handler: false
+19:32:03.045 info buildHook-5252 file processed (stat): 0 log points, error handler: false, network logging handler: false
+19:32:20.636 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59953 }
+19:32:20.656 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59953 }
+19:32:20.672 info host client disconnected: runtimeHook 1001
+19:32:20.673 info host client disconnected: runtimeHook
+19:32:20.675 info host client disconnected: runtimeHook 1001
+19:32:20.676 info host client disconnected: runtimeHook
+19:32:56.260 info buildHook-5252 file processed (stat): 0 log points, error handler: false, network logging handler: false
+19:34:01.728 info buildHook-5252 file processed (stat): 0 log points, error handler: false, network logging handler: false
+19:35:10.403 info buildHook-5252 file processed (stat): 0 log points, error handler: false, network logging handler: false
+19:35:18.999 info host client disconnected: runtimeHook 1001
+19:35:19.000 info host client disconnected: runtimeHook
+19:35:19.001 info host client disconnected: runtimeHook 1001
+19:35:19.001 info host client disconnected: runtimeHook
+19:35:19.048 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59953 }
+19:35:19.064 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59953 }
+19:35:29.742 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59953 }
+19:35:29.759 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59953 }
+19:35:29.767 info host client disconnected: runtimeHook 1001
+19:35:29.768 info host client disconnected: runtimeHook
+19:35:29.770 info host client disconnected: runtimeHook 1001
+19:35:29.770 info host client disconnected: runtimeHook
+19:36:43.279 info buildHook-5252 file processed (stat): 0 log points, error handler: false, network logging handler: false
+19:37:58.259 info buildHook-5252 file processed (stat): 0 log points, error handler: false, network logging handler: false
+19:39:10.958 info buildHook-5252 file processed (stat): 0 log points, error handler: false, network logging handler: false
+19:45:52.386 info buildHook-5252 file processed (stat): 0 log points, error handler: false, network logging handler: false
+19:47:59.946 info buildHook-5252 file processed (stat): 0 log points, error handler: false, network logging handler: false
+19:48:00.330 info host client disconnected: runtimeHook 1001
+19:48:00.330 info host client disconnected: runtimeHook
+19:48:00.332 info host client disconnected: runtimeHook 1001
+19:48:00.333 info host client disconnected: runtimeHook
+19:48:00.455 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59953 }
+19:48:00.532 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59953 }
+19:48:28.222 info buildHook-5252 file processed (stat): 0 log points, error handler: false, network logging handler: false
+19:48:29.233 info host client disconnected: runtimeHook 1001
+19:48:29.233 info host client disconnected: runtimeHook
+19:48:29.235 info host client disconnected: runtimeHook 1001
+19:48:29.235 info host client disconnected: runtimeHook
+19:48:29.329 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59953 }
+19:48:29.353 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59953 }
+19:49:22.558 info host client disconnected: runtimeHook 1001
+19:49:22.558 info host client disconnected: runtimeHook
+19:49:22.563 info host client disconnected: runtimeHook 1001
+19:49:22.563 info host client disconnected: runtimeHook
+19:49:22.605 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59953 }
+19:49:22.619 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59953 }
+19:49:55.032 info buildHook-5252 file processed (stat): 0 log points, error handler: false, network logging handler: false
+19:49:56.211 info host client disconnected: runtimeHook 1001
+19:49:56.212 info host client disconnected: runtimeHook
+19:49:56.217 info host client disconnected: runtimeHook 1001
+19:49:56.217 info host client disconnected: runtimeHook
+19:49:56.916 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59953 }
+19:49:57.027 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59953 }
+19:53:23.798 info buildHook-5252 file processed (stat): 0 log points, error handler: false, network logging handler: false
+19:53:41.800 info buildHook-5252 file processed (stat): 0 log points, error handler: false, network logging handler: false
+19:55:13.851 info host client disconnected: runtimeHook 1001
+19:55:13.852 info host client disconnected: runtimeHook
+19:55:13.858 info host client disconnected: runtimeHook 1001
+19:55:13.858 info host client disconnected: runtimeHook
+19:55:13.961 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59953 }
+19:55:13.994 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59953 }
+19:56:22.707 info buildHook-5252 file processed (stat): 0 log points, error handler: false, network logging handler: false
+19:58:50.891 info host client disconnected: runtimeHook 1001
+19:58:50.891 info host client disconnected: runtimeHook
+19:58:50.894 info host client disconnected: runtimeHook 1001
+19:58:50.894 info host client disconnected: runtimeHook
+19:58:50.992 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59953 }
+19:58:51.024 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59953 }
+20:16:38.021 info buildHook-5252 file processed (stat): 0 log points, error handler: false, network logging handler: false
+20:20:22.454 info host client disconnected: runtimeHook 1001
+20:20:22.454 info host client disconnected: runtimeHook
+20:20:22.456 info host client disconnected: runtimeHook 1001
+20:20:22.456 info host client disconnected: runtimeHook
+20:34:10.425 info extension stopping host
+20:34:10.458 info host removing cache folder: 97fbfb33bf86f78ea4f757bd2e08f4ab
+20:34:10.473 WARN host unable to revert access and modified time for file c:\users\eyie\code\youtube\react-project-2024\src\app.jsx
+20:34:55.748 info extension stopping host
+20:34:58.495 info extension stopping host
+20:34:59.620 info host ------------ starting ------------
+20:34:59.773 ERR! host uncaught exception: EPIPE: broken pipe, write
+20:35:00.547 info host worker Starting Host Worker...
+20:35:20.732 info extension stopping host
+20:35:24.309 info host ------------ starting ------------
+20:35:24.879 info extension host process output: port:[61936]
+20:35:24.879 info extension 
+20:35:25.128 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 61936 }
+20:35:27.092 info host starting host: {"extensionFolder":"c:\\Users\\Eyie\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.324","runtimeHookFile":"c:\\Users\\Eyie\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.324\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Eyie\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.324\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\Eyie\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.324\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[{"path":"c:\\Users\\Eyie\\code\\youtube\\react-food-app\\portfolio-website\\src\\App.js","reason":"open"},{"path":"c:\\Users\\Eyie\\code\\youtube\\react-food-app\\portfolio-website\\src\\Home.js","reason":"open"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","DESKTOP-I6V7IM0","192.168.1.13"],"host":"127.0.0.1","forcedStart":false,"startTime":1718127320762}
+20:35:27.417 info host starting tools discovery and integration
+20:35:27.706 info host looking for tools to patch
+20:35:27.877 info host worker Starting Host Worker...
+20:35:34.076 info extension stopping host
+20:35:34.164 ERR! extension error processing message: {
+20:35:34.165 ERR! extension   method: 'requestedFeaturesAreNotAvailable',
+20:35:34.165 ERR! extension   args: [],
+20:35:34.165 ERR! extension   sequenceNumber: 0
+20:35:34.165 ERR! extension }, Canceled: Canceled
+20:35:34.206 ERR! host error processing message: { sequenceNumber: 0, error: [Object], version: '1.0.0', size: 66 }, [object Object]
+20:35:34.207 ERR! host uncaught exception: undefined
+20:35:34.271 info host client disconnected: extension 1006
+20:35:34.271 info host client disconnected: extension { id: 1, clientType: 'extension' }
+20:35:59.336 info extension stopping host
+20:36:02.442 info host ------------ starting ------------
+20:36:02.557 info host removing cache folder: bc8fcabde334d470adea0eedfc18d3a2
+20:36:02.707 info extension host process output: port:[61953]
+20:36:02.708 info extension 
+20:36:02.758 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 61953 }
+20:36:03.445 info host starting host: {"extensionFolder":"c:\\Users\\Eyie\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.324","runtimeHookFile":"c:\\Users\\Eyie\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.324\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Eyie\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.324\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\Eyie\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.324\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[{"path":"c:\\Users\\Eyie\\code\\youtube\\self-react\\src\\App.jsx","reason":"open"},{"path":"c:\\Users\\Eyie\\code\\youtube\\self-react\\src\\components\\Header.jsx","reason":"open"},{"path":"c:\\Users\\Eyie\\code\\youtube\\self-react\\tailwind.config.js","reason":"open"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","DESKTOP-I6V7IM0","192.168.1.13"],"host":"127.0.0.1","forcedStart":false,"startTime":1718127359356}
+20:36:03.609 info host starting tools discovery and integration
+20:36:03.683 info host looking for tools to patch
+20:36:04.254 info host worker Starting Host Worker...
+20:36:05.095 info host found 1 tool file(s) to patch
+20:36:05.109 info host patching c:\users\eyie\code\youtube\self-react\node_modules\vite\bin\vite.js
+20:36:05.285 info host Host's startup and patch time: 5929 ms
+20:36:05.296 info host completed tools discovery and integration
+20:36:05.374 ERR! host uncaught exception: No clients connected
+20:36:23.857 info buildHook-10972 installing build hook for vite at c:\users\eyie\code\youtube\self-react, node v20.11.0
+20:36:23.985 info buildHook-10972 allowed tools: vite, angular, jest, webpack, next.js, nest.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+20:36:23.986 info buildHook-10972 running tools: vite
+20:36:24.059 info buildHook-10972 installing fs interceptor
+20:36:24.155 info host client connected: buildHook { address: '127.0.0.1', family: 'IPv4', port: 61953 }
+20:36:24.402 info buildHook-10972 file processed (stat): 0 log points, error handler: false, network logging handler: false
+20:36:24.511 info buildHook-10972 file processed (stat): 0 log points, error handler: false, network logging handler: false
+20:36:24.554 info buildHook-10972 file processed (stat): 0 log points, error handler: false, network logging handler: false
+20:36:24.570 info buildHook-10972 allowed tools: vite, angular, jest, webpack, next.js, nest.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+20:36:24.572 info buildHook-10972 running tools: vite
+20:36:24.592 info buildHook-10972 allowed tools: vite, angular, jest, webpack, next.js, nest.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+20:36:24.593 info buildHook-10972 running tools: vite
+20:36:30.460 info buildHook-10972 file processed (stat): 0 log points, error handler: true, network logging handler: true
+20:37:02.624 info host removing cache folder: 99ab2b764d06db551338fbab28f33817
+20:39:26.000 ERR! host uncaught exception: No clients connected
+20:39:31.952 info buildHook-10972 file processed (stat): 0 log points, error handler: false, network logging handler: false
+20:40:01.431 ERR! host uncaught exception: No clients connected
+20:40:01.564 info buildHook-10972 file processed (stat): 0 log points, error handler: false, network logging handler: false
+20:40:32.437 ERR! host uncaught exception: No clients connected
+20:40:44.608 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 61953 }
+20:40:44.639 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 61953 }
+20:42:10.211 info buildHook-10972 file processed (stat): 0 log points, error handler: false, network logging handler: false
+20:42:11.341 info host client disconnected: runtimeHook 1001
+20:42:11.341 info host client disconnected: runtimeHook
+20:42:11.343 info host client disconnected: runtimeHook 1001
+20:42:11.344 info host client disconnected: runtimeHook
+20:42:11.741 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 61953 }
+20:42:11.778 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 61953 }
+20:42:29.719 info buildHook-10972 file processed (stat): 0 log points, error handler: false, network logging handler: false
+20:42:34.161 info host client disconnected: runtimeHook 1001
+20:42:34.161 info host client disconnected: runtimeHook
+20:42:34.164 info host client disconnected: runtimeHook 1001
+20:42:34.165 info host client disconnected: runtimeHook
+20:42:34.275 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 61953 }
+20:42:34.307 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 61953 }
+20:42:57.870 info buildHook-10972 file processed (stat): 0 log points, error handler: false, network logging handler: false
+20:59:31.145 info host client disconnected: runtimeHook 1001
+20:59:31.146 info host client disconnected: runtimeHook
+20:59:31.148 info host client disconnected: runtimeHook 1001
+20:59:31.148 info host client disconnected: runtimeHook
+20:59:33.597 info extension stopping host
+20:59:33.642 info host removing cache folder: c4a5488fd48cc53fee751d7db3ab8130
+20:59:33.645 WARN host unable to revert access and modified time for file c:\users\eyie\code\youtube\self-react\src\app.jsx
+19:40:03.737 info extension stopping host
+19:40:08.863 info host ------------ starting ------------
+19:40:09.260 info extension host process output: port:[61953]
+19:40:09.261 info extension 
+19:40:09.482 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 61953 }
+19:40:11.151 info host worker Starting Host Worker...
+19:40:11.387 info host starting host: {"extensionFolder":"c:\\Users\\Eyie\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.324","runtimeHookFile":"c:\\Users\\Eyie\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.324\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Eyie\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.324\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\Eyie\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.324\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[{"path":"c:\\Users\\Eyie\\code\\youtube\\self-react\\src\\App.jsx","reason":"open"},{"path":"c:\\Users\\Eyie\\code\\youtube\\self-react\\src\\components\\Header.jsx","reason":"open"},{"path":"c:\\Users\\Eyie\\code\\youtube\\self-react\\src\\components\\index.jsx","reason":"open"},{"path":"c:\\Users\\Eyie\\code\\youtube\\self-react\\src\\components\\accordien\\data.js","reason":"open"},{"path":"c:\\Users\\Eyie\\code\\youtube\\self-react\\tailwind.config.js","reason":"open"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":false,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","DESKTOP-I6V7IM0","192.168.1.13"],"host":"127.0.0.1","forcedStart":false,"startTime":1718296803805}
+19:40:11.508 info host starting tools discovery and integration
+19:40:11.822 info host looking for tools to patch
+19:40:13.579 info host found 1 tool file(s) to patch
+19:40:13.584 info host patching c:\users\eyie\code\youtube\self-react\node_modules\vite\bin\vite.js
+19:40:13.655 info host Host's startup and patch time: 9850 ms
+19:40:13.657 info host completed tools discovery and integration
+19:40:13.694 ERR! host uncaught exception: No clients connected
+19:40:30.878 info extension stopping host
+19:40:31.165 info extension client disconnected: 1006 
+19:41:18.663 info extension stopping host
+19:41:21.127 info host ------------ starting ------------
+19:41:21.194 info host removing cache folder: 7f4fb203abebb4240c0233f080556235
+19:41:21.316 info extension host process output: port:[59953]
+19:41:21.317 info extension 
+19:41:21.353 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 59953 }
+19:41:22.418 info host starting host: {"extensionFolder":"c:\\Users\\Eyie\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.324","runtimeHookFile":"c:\\Users\\Eyie\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.324\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Eyie\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.324\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\Eyie\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.324\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[{"path":"c:\\Users\\Eyie\\code\\youtube\\react-project-2024\\src\\App.jsx","reason":"open"},{"path":"c:\\Users\\Eyie\\code\\youtube\\react-project-2024\\src\\pages\\HomePage.jsx","reason":"open"},{"path":"c:\\Users\\Eyie\\code\\youtube\\react-project-2024\\src\\Layouts\\mainLayout.jsx","reason":"open"},{"path":"c:\\Users\\Eyie\\code\\youtube\\react-project-2024\\src\\components\\JobListings.jsx","reason":"open"},{"path":"c:\\Users\\Eyie\\code\\youtube\\react-project-2024\\src\\components\\ViewAllJobs.jsx","reason":"open"},{"path":"c:\\Users\\Eyie\\code\\youtube\\react-project-2024\\tailwind.config.js","reason":"open"},{"path":"c:\\Users\\Eyie\\code\\youtube\\react-project-2024\\src\\components\\JobListing.jsx","reason":"open"},{"path":"c:\\Users\\Eyie\\code\\youtube\\react-project-2024\\src\\components\\Navbar.jsx","reason":"open"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":false,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","DESKTOP-I6V7IM0","192.168.1.13"],"host":"127.0.0.1","forcedStart":false,"startTime":1718296878675}
+19:41:22.510 info host worker Starting Host Worker...
+19:41:22.614 info host starting tools discovery and integration
+19:41:22.701 info host looking for tools to patch
+19:41:24.341 info host found 1 tool file(s) to patch
+19:41:24.357 info host patching c:\users\eyie\code\youtube\react-project-2024\node_modules\vite\bin\vite.js
+19:41:24.375 info host Host's startup and patch time: 5699 ms
+19:41:24.378 info host completed tools discovery and integration
+19:41:24.407 ERR! host uncaught exception: No clients connected
+19:41:39.374 info buildHook-10896 installing build hook for vite at c:\users\eyie\code\youtube\react-project-2024, node v20.11.0
+19:41:39.430 info buildHook-10896 allowed tools: vite, angular, jest, webpack, next.js, nest.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+19:41:39.430 info buildHook-10896 running tools: vite
+19:41:39.456 info buildHook-10896 installing fs interceptor
+19:41:39.476 info host client connected: buildHook { address: '127.0.0.1', family: 'IPv4', port: 59953 }
+19:41:39.722 info buildHook-10896 file processed (stat): 0 log points, error handler: false, network logging handler: false
+19:41:39.737 info buildHook-10896 file processed (stat): 0 log points, error handler: false, network logging handler: false
+19:41:39.748 info buildHook-10896 file processed (stat): 0 log points, error handler: false, network logging handler: false
+19:41:39.782 info buildHook-10896 file processed (stat): 0 log points, error handler: false, network logging handler: false
+19:41:39.792 info buildHook-10896 file processed (stat): 0 log points, error handler: false, network logging handler: false
+19:41:39.808 info buildHook-10896 file processed (stat): 0 log points, error handler: false, network logging handler: false
+19:41:39.857 info buildHook-10896 file processed (stat): 0 log points, error handler: false, network logging handler: false
+19:41:39.878 info buildHook-10896 file processed (stat): 0 log points, error handler: false, network logging handler: false
+19:41:39.879 info buildHook-10896 allowed tools: vite, angular, jest, webpack, next.js, nest.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+19:41:39.879 info buildHook-10896 running tools: vite
+19:41:43.112 info buildHook-10896 file processed (stat): 0 log points, error handler: true, network logging handler: true
+19:41:51.458 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59953 }
+19:41:51.491 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59953 }
+19:47:59.010 info buildHook-10896 file processed (stat): 0 log points, error handler: false, network logging handler: false
+19:47:59.297 info buildHook-10896 file processed (stat): 0 log points, error handler: false, network logging handler: false
+19:48:50.394 info buildHook-10896 file processed (stat): 0 log points, error handler: false, network logging handler: false
+19:49:30.455 info host client disconnected: runtimeHook 1001
+19:49:30.456 info host client disconnected: runtimeHook
+19:49:30.457 info host client disconnected: runtimeHook 1001
+19:49:30.458 info host client disconnected: runtimeHook
+19:49:30.507 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59953 }
+19:49:30.518 info host client connected: runtimeHook { address: '127.0.0.1', family: 'IPv4', port: 59953 }
+19:49:59.476 info buildHook-10896 file processed (stat): 0 log points, error handler: false, network logging handler: false
+19:54:43.977 info extension stopping host
+19:54:44.063 info host removing cache folder: 0433ce125eb7e59721e407b23ff0a6a2
+19:54:44.069 ERR! host failed to delete cache folder ENOTEMPTY: directory not empty, rmdir '\\?\C:\Users\Eyie\.console-ninja\.cache\0433ce125eb7e59721e407b23ff0a6a2'
+19:54:44.073 WARN host unable to revert access and modified time for file c:\users\eyie\code\youtube\react-project-2024\src\pages\homepage.jsx
+19:54:45.090 info buildHook-10896 client disconnected: 1006 
+19:54:45.090 info buildHook-10896 disconnected from host: 59953
+19:54:45.091 info buildHook-10896 disconnected from all hosts
+11:13:20.097 info buildHook-12224 installing build hook for vite at c:\users\eyie\code\youtube\react-project-2024, node v20.11.0

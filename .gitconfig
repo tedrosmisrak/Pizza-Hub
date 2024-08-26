@@ -1,0 +1,8 @@
+[user]
+	name = tedrosmisrak
+	email = eyasumisrak777@gmail.com
+[core]
+	editor = code --wait
+	autocrlf = true
+	autorcrlf = true
+	editore = code --wait
