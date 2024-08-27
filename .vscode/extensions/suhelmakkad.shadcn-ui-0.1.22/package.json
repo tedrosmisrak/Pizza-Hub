@@ -1,0 +1,100 @@
+{
+	"version": "0.1.22",
+	"name": "shadcn-ui",
+	"displayName": "shadcn/ui",
+	"description": "Add components from shadcn/ui directly from VS Code",
+	"publisher": "SuhelMakkad",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/SuhelMakkad/vscode-shadcn-ui"
+	},
+	"bugs": {
+		"url": "https://github.com/SuhelMakkad/vscode-shadcn-ui/issues",
+		"email": "makadsuhel11@gmail.com"
+	},
+	"engines": {
+		"vscode": "^1.54.0"
+	},
+	"categories": [
+		"Other"
+	],
+	"icon": "images/icon.png",
+	"galleryBanner": {
+		"color": "#C80000",
+		"theme": "dark"
+	},
+	"activationEvents": [],
+	"main": "./dist/extension.js",
+	"contributes": {
+		"commands": [
+			{
+				"command": "shadcn-ui.initCli",
+				"title": "shadcn/ui: Install CLI"
+			},
+			{
+				"command": "shadcn-ui.addNewComponent",
+				"title": "shadcn/ui: Add New Component"
+			},
+			{
+				"command": "shadcn-ui.addMultipleComponents",
+				"title": "shadcn/ui: Add Multiple Components"
+			},
+			{
+				"command": "shadcn-ui.gotoComponentDoc",
+				"title": "shadcn/ui: Open Component Documentation"
+			},
+			{
+				"command": "shadcn-ui.reloadComponentList",
+				"title": "shadcn/ui: Reload Component List"
+			},
+			{
+				"command": "shadcn-ui.gotoDoc",
+				"title": "shadcn/ui: Open Documentation"
+			}
+		]
+	},
+	"scripts": {
+		"vscode:prepublish": "npm run package",
+		"deploy": "vsce publish",
+		"compile": "webpack",
+		"watch": "webpack --watch",
+		"package": "webpack --mode production --devtool hidden-source-map",
+		"compile-tests": "tsc -p . --outDir out",
+		"watch-tests": "tsc -p . -w --outDir out",
+		"pretest": "npm run compile-tests && npm run compile && npm run lint",
+		"lint": "eslint src --ext ts",
+		"test": "node ./out/test/runTest.js"
+	},
+	"devDependencies": {
+		"@types/glob": "^8.1.0",
+		"@types/mocha": "^10.0.1",
+		"@types/node": "20.2.5",
+		"@types/vscode": "^1.54.0",
+		"@typescript-eslint/eslint-plugin": "^5.59.8",
+		"@typescript-eslint/parser": "^5.59.8",
+		"@vscode/test-electron": "^2.3.2",
+		"eslint": "^8.41.0",
+		"glob": "^8.1.0",
+		"mocha": "^10.2.0",
+		"node-fetch": "^3.3.2",
+		"ts-loader": "^9.4.3",
+		"typescript": "^5.1.3",
+		"webpack": "^5.85.0",
+		"webpack-cli": "^5.1.1"
+	},
+	"dependencies": {
+		"@types/node-fetch": "^2.6.6"
+	},
+	"__metadata": {
+		"id": "1e4c6eab-ed38-4bc9-802f-91ba45885a12",
+		"publisherId": "f5cfcafd-e222-4bee-aaf9-9663e05e1547",
+		"publisherDisplayName": "Suhel Makkad",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1717656296056,
+		"pinned": false,
+		"source": "gallery"
+	}
+}
